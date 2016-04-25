@@ -3,8 +3,10 @@ Multi Agent Simulator for Target Tracking
 
 # Run
 ## From script
+Run MASTT_main.m to view a target tracking demo
 
 ## From GUI
+Run the script gui.m to open a graphical user interface
 ![alt tag](https://raw.githubusercontent.com/gitAnto/MASTT/master/images/gui-example.png)
 
 # MATLAB Version
