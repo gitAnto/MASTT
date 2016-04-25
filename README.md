@@ -5,6 +5,7 @@ Multi Agent Simulator for Target Tracking
 ## From script
 
 ## From GUI
+![alt tag](https://raw.githubusercontent.com/gitAnto/MASTT/master/images/example-gui.png)
 
 # MATLAB Version
 This software has been tested with MATLAB R2013a
